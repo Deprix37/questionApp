@@ -1,0 +1,31 @@
+.info {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 20px;
+    text-align: center;
+}
+
+.info h2 {
+    margin-bottom: 10px;
+}
+
+.info p {
+    color: #666;
+}
+
+#start {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #007BFF;
+    color: white;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+#start:hover {
+    background-color: #0056b3;
+}
