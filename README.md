@@ -14,3 +14,6 @@
 
 
 **React kullanılarak yapılmıştır**
+
+
+(https://ahmetelbuz-questionapp.netlify.app/)
