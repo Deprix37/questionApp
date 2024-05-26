@@ -2,6 +2,8 @@
 
 
 ##### QUESTION APP KURALLARI
+- Bilgilendirme ekranıyla başlanılmaktadır.
+- Başal butonuna tıklanıldıktan sonra header ve info componentleri gizlenir question componenti başlar.
 - Her soru ekranda en fazla 30sn kalmalıdır.
 - İlk 10sn cevap şıkları görünmeyecektir
 - Cevap şıklarından biri tıklandıktan ya da 30sn tamamlandıktan sonra yeni soruya geçilecektir.
